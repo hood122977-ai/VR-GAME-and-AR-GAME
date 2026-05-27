@@ -13,4 +13,6 @@ AR게임은 / 페키지 파일로 Releases에 있음 VR 게임의 나오는 캐�
 
 AR PPT: [AR-PPT.pdf](https://github.com/user-attachments/files/28317193/AR-PPT.pdf)
 
+영상: https://youtube.com/shorts/QZA1_-i-72I?si=VbvOt8r03mFjbTAT
+
 
